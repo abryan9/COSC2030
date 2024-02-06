@@ -1,0 +1,15 @@
+- [x] Build function calls
+- [x] Create root on creation of first node this time
+- [x] Define functions in cpp
+- [x] Get rotations built into insert
+- [x] Moniter compares, depth, etc throughout
+- [x] Build clean word in cpp
+- [x] Loop through dictionary, check size
+- [x] Loop through text
+- [x] Write out to text file
+- [ ] Test single and double rotations
+- [ ] Make it fast
+- [ ] Add LOTS of comments for our dear love Jim
+- [x] Print cover page
+- [x] Build misspelled tree INSIDE main tree and then create local print_misspelled fx for output
+- [x] fix segmentation fault when reading out text
